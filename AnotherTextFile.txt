@@ -13,3 +13,5 @@ Adding fourth changes and will just staged changes not commit
 
 
 Adding fifth changes.
+
+Modifiing inside myNewBranch.
