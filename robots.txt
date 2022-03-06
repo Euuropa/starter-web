@@ -6,8 +6,11 @@ Making changes in robot txt file
 
 Editing robots inside myNewBranch.
 
-<<<<<<< HEAD
+
 testing conflicts and writing this text in master.
-=======
+
+
+
+
 I am making changes to test merge conflict here.
->>>>>>> test-conflict-local
+
