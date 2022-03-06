@@ -5,3 +5,5 @@ User-agent: *
 Making changes in robot txt file
 
 Editing robots inside myNewBranch.
+
+testing conflicts and writing this text in master.
