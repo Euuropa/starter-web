@@ -5,3 +5,5 @@ User-agent: *
 Making changes in robot txt file
 
 Editing robots inside myNewBranch.
+
+I am making changes to test merge conflict here.
