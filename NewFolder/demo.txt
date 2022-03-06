@@ -8,4 +8,4 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots
    ritten in 45 BC. This book is a treatise on the theory of ethics,
 
 
-   Added new line in the demo.txt
+   Added new line in the demo.txt and this is the DEMO_LOCAL_FE
