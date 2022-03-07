@@ -11,7 +11,7 @@ testing conflicts and writing this text in master.
 
 
 
-
+Adding changes in github.
 I am making changes to test merge conflict here.
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots
