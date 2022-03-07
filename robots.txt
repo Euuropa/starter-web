@@ -23,3 +23,4 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots
    "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, w
    ritten in 45 BC. This book is a treatise on the theory of ethics,
 
+Adding copyright notice for pull rebase example in local.
