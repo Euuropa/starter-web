@@ -5,7 +5,7 @@ User-agent: *
 Making changes in robot txt file
 
 Editing robots inside myNewBranch.
-
+updating line 8 for testing comparing tags
 
 testing conflicts and writing this text in master.
 
